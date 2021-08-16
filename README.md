@@ -12,6 +12,6 @@
 * tweepy
 * Seaborn
 
-### [Link to Presentation](https://docs.google.com/presentation/d/1lQ-MURLIqWuX6jaBJ_9W1Z6fEElNzxDd59bYK9PN_bE/edit?usp=sharing)
+### [Resullts and Discussion about the Sentiment Analysis](https://docs.google.com/presentation/d/1lQ-MURLIqWuX6jaBJ_9W1Z6fEElNzxDd59bYK9PN_bE/edit?usp=sharing)
 
 
